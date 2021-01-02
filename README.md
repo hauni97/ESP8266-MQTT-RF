@@ -7,7 +7,7 @@ This project's primary goal is to use an ESP8266 with an RF transmitter for cost
 For this purpose, Somfy blinds were used to control over a command prompt and Apple's HomeKit via MQTT and the ESP8266 board.
 
 _Further Resources:_
-* [Arduiono](https://www.arduino.cc/)
+* [Arduino](https://www.arduino.cc/)
 * [Homebridge](https://github.com/homebridge/homebridge)
 
 # Step 1: Setting up the ESP8266
