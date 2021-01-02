@@ -14,4 +14,4 @@ _Further Resources:_
 # Step 2: MQTT Setup 
 # Step 3: Scripts and Usage
 # Setp 4: Utilizing Homebridge
-# Step 5: Control your Blinds from your Apple device
+# Step 5: Control your blinds from your Apple device
