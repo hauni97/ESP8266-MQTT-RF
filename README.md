@@ -1,4 +1,4 @@
-# ESP8266-MQTT-RF
+# Controling RF Devices with an ESP8266 Board via MQTT
 Controlling RF devices with an [ESP8266](https://www.espressif.com/en/products/socs/esp8266) &amp; a RF transmitter over [MQTT](https://mqtt.org/) and using [Apple HomeKit](https://en.wikipedia.org/wiki/HomeKit) with [Homebridge](https://homebridge.io/) to use the Home app and Siri.
 
 Google's Android and Amazon's Alexa can also be used.
