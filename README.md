@@ -54,4 +54,4 @@ The python scripts from the previous step should be used to use this plugin and 
 * [Raspberry SCP](https://www.raspberrypi.org/documentation/remote-access/ssh/scp.md)
 
 # Step 5: Control your blinds from your Apple device
-Once your blinds arOnce your blinds are added to your homebridge config, they will appear in your HomeKit app when the bridge is added.
+Once your blinds are added to your homebridge config, they will appear in your HomeKit app when the bridge is added.
